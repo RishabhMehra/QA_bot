@@ -13,7 +13,7 @@ Approach :
 	
 Model unable to give generalized outcomes, needed context vector, added Document retrieval approach.
 
-![Retrival_Flow](https://github.com/RishabhMehra/QA_bot/blob/main/Information_retrival.jpeg?raw=true)
+![Plot](https://github.com/RishabhMehra/QA_bot/blob/main/Information_retrival.jpeg?raw=true)
 
 # 2. Information Retrieval Pipeline 
     a. Split PDF Document into smaller chunks
